@@ -6,7 +6,7 @@ Backend Developer
 
 * 🌍  I'm based in Hồ Chí Minh
 * 🖥️  See my portfolio at [Me](http://file:///C:/Users/KENNER/Pictures/AWP00874%20copy.jpg)
-* ✉️  You can contact me at [gamingkenner@gmail.com](mailto:gamingkenner@gmail.com)
+* ✉️  You can contact me at [kennerdev47@gmail.com](mailto:kennerdev47@gmail.com)
 * 🧠  I'm learning C# .NET Framework
 
 ### Skills
