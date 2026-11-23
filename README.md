@@ -1,34 +1,27 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kenner
-==============================================================================================================================
+# Hi, I'm Trọng (Kenner) 👋
 
-Backend Developer
------------------
+**Backend Developer (.NET)** · Ho Chi Minh City, Vietnam  
+Software Engineering graduate, FPT University HCMC (2026)
 
-* 🌍  I'm based in Hồ Chí Minh
-* 🖥️  See my portfolio at [Me](http://file:///C:/Users/KENNER/Pictures/AWP00874%20copy.jpg)
-* ✉️  You can contact me at [buidinhtrong912@gmail.com](mailto:buidinhtrong912@gmail.com)
-* 🧠  I'm learning C# .NET Framework
+I build REST APIs with ASP.NET Core and like taking a project all the way from database design to deployment.
 
-### Skills
+🔎 **Currently:** looking for a Backend .NET Fresher / Junior position in Ho Chi Minh City.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
+## 🛠️ Tech stack
 
-### Socials
+- **Backend:** C#, ASP.NET Core 8 Web API, Entity Framework Core (Code First, migrations), JWT authentication
+- **Database:** SQL Server, PostgreSQL
+- **DevOps:** Docker, Docker Compose, GitHub Actions (self-hosted runner), Cloudflare Tunnel, Ubuntu VPS
+- **Tools:** Git, Visual Studio, VS Code, Swagger, Postman
 
-<p align="left"> <a href="https://www.github.com/kenner47" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## 📌 Featured projects
 
-### Badges
+| Project | What it is | Tech |
+|---|---|---|
+| **VCL – Vietnam Cross-border Logistics** (capstone, 2026) | Logistics backend for consignment and purchase-on-behalf orders: quotations, deposits and payments, warehouse flows | ASP.NET Core 8, EF Core, SQL Server, Docker, GitHub Actions, Cloudflare Tunnel |
+| [Child Growth Tracking](https://github.com/Kenner47/Child-Growth-Tracking-BE) (team project) | Helps parents track their child's growth. My part: password reset and other backend features | ASP.NET Core Web API, EF Core |
+| [Yến Sào Ngọc Nga](https://github.com/Kenner47/YenSaoNgocNga) | E-commerce site for bird's nest products, with the API and the web front end separated | ASP.NET Core 8 Web API + MVC, EF Core, PostgreSQL |
 
-<b>My GitHub Stats</b>
+## 📫 Contact
 
-<a href="http://www.github.com/kenner47"><img src="https://github-readme-stats.vercel.app/api?username=kenner47&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kenner47's GitHub stats" /></a>
-
-<a href="http://www.github.com/kenner47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kenner47&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/kenner47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenner47&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kenner47&theme=darkhub&row=1&no-frame=true" alt="GitHub Trophies" />
-</p>
+- Email: buidinhtrong912@gmail.com
